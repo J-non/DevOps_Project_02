@@ -42,8 +42,9 @@
  - OAuth를 통한 사용자 검증 및 사용자 정보 조회
 
 ### 게시판
-<img src='https://github.com/user-attachments/assets/78ce0478-153f-43ed-b6dd-961a0c9fccdf' width='49%' height='600px' />
-<img src='https://github.com/user-attachments/assets/440781af-c7f1-42f0-bb01-889ebc87ff8e' width='49%' height='600px' />
+<img src='https://github.com/user-attachments/assets/78ce0478-153f-43ed-b6dd-961a0c9fccdf' />
+<img src='https://github.com/user-attachments/assets/440781af-c7f1-42f0-bb01-889ebc87ff8e' />
+
 
  - 게시글 수정 및 삭제
  - 특정 게시글에 대한 좋아요 확인 및 설정
