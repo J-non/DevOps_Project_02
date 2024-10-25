@@ -11,8 +11,8 @@
 
 - 개발인원 : 3명
    - 팀원1  : 회원가입 및 로그인, 마이페이지 구현(FE,BE)
-   - 팀원2 : 게시판, 댓글, 대댓글, 좋아요 구현(FE)
-   - 팀원3 : 게시판, 댓글, 대댓글, 좋아요 구현(BE)
+   - 팀원2 : 게시판, 댓글, 답글, 좋아요 구현(FE)
+   - 팀원3 : 게시판, 댓글, 답글, 좋아요 구현(BE)
 
 - 기술스택   
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/HTML-D0654C?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/Typescript-3D6AAC?style=for-the-badge&logo=Typescript&logoColor=white"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> 
@@ -21,7 +21,7 @@
 - 목표
    - 1 ) 유튜브 쇼츠 형태의 무한 스크롤 게시판 구현   
    - 2 ) 소셜 인증   
-   - 3 ) 댓글, 대댓글, 좋아요 구현
+   - 3 ) 댓글, 답글, 좋아요 구현
 
 - 프론트엔드 git : https://github.com/J-non/Devops_Project_02_Front
  
@@ -48,8 +48,8 @@
 
  - 게시글 수정 및 삭제
  - 특정 게시글에 대한 좋아요 확인 및 설정
- - 댓글과 대댓글 작성 및 수정, 삭제 
- - 댓글과 대댓글에 대한 좋아요 설정
+ - 댓글과 글 작성 및 수정, 삭제 
+ - 댓글과 답글에 대한 좋아요 설정
 
 
 ## DB구성
@@ -62,21 +62,21 @@
 post_likes | 게시글에 대한 좋아요 |
 comment | 게시글에 대한 댓글|
 comment_likes | 댓글에 대한 좋아요|
-reply | 댓글에 대한 댓글|
-reply_likes | 대댓글에 대한 좋아요|
+reply | 댓글에 대한 답글|
+reply_likes | 답글에 대한 좋아요|
  
 
 ## 팀 내 역할
 
 ### 백엔드 담당
 
-#### 1. 게시글 CRUD
+#### 1. 포스트 기능
 
-#### 2. 게시글 좋아요 CRUD 
+#### 2. 댓글 기능
 
-#### 3. 댓글 및 대댓글 CRUD
+#### 3. 답글 기능
 
-#### 4. 댓글 및 대댓글 좋아요 CRUD
+#### 4. 좋아요 기능
 
 
 ## 이슈사항
